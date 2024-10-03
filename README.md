@@ -1,1 +1,9 @@
 # Walmart_Sales_Data_Analysis_Project
+
+The primary goal of this project is to gain a comprehensive understanding of the sales data from Walmart to identify the various factors influencing sales across different branches. This involves understanding the top-performing branches and products, sales trends, and customer behavior. The dataset comprises sales transactions from three Walmart branches located in Mandalay, Yangon, and Naypyitaw, with a total of 17 columns and 1000 rows. The data was sourced from the Kaggle Walmart Sales Forecasting Competition, which provided historical sales data for 45 Walmart stores in different regions, including information on holiday markdown events.
+
+The analysis will focus on three main areas: product analysis, sales analysis, and customer analysis. The product analysis aims to understand the performance of different product lines, identify the best-performing product lines, and pinpoint areas that need improvement. The sales analysis seeks to answer questions about sales trends, effectiveness of sales strategies, and necessary modifications to increase sales. The customer analysis aims to uncover different customer segments, purchasing trends, and the profitability of each customer segment.
+
+To address the objectives, the project will follow a structured approach. In the data wrangling stage, a database will be built, and NULL values will be handled by implementing data replacement methods. Feature engineering will involve creating new columns such as 'time_of_day' to understand sales patterns throughout the day, 'day_name' to identify the busiest days of the week for each branch, and 'month_name' to analyze sales and profits across different months of the year.
+
+The project will culminate in a comprehensive conclusion based on the findings from the exploratory data analysis, which will provide valuable insights into the sales data of Walmart and guide future sales strategies and optimizations.
